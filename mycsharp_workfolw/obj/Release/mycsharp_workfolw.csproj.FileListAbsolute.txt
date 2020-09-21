@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\bin\Release\mycsharp_workfolw.exe.config
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\bin\Release\mycsharp_workfolw.exe
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\bin\Release\mycsharp_workfolw.pdb
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\obj\Release\mycsharp_workfolw.Form1.resources
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\obj\Release\mycsharp_workfolw.Properties.Resources.resources
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\obj\Release\mycsharp_workfolw.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\obj\Release\mycsharp_workfolw.exe
+C:\Users\moham\source\repos\mycsharp_workfolw\mycsharp_workfolw\obj\Release\mycsharp_workfolw.pdb
